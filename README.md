@@ -3,6 +3,9 @@
 ## Overview
 The California Wildfire Tracker is an ArcGIS-based dashboard designed to monitor wildfire incidents across the state, assess their impact, and optimize resource allocation for better disaster response. The dashboard integrates real-time data to provide actionable insights for emergency management teams, policymakers, and researchers.
 
+Dashboard Link - https://nu.maps.arcgis.com/apps/dashboards/da00f47caafa48138a9de11552150a22 <br>
+Map Link - https://nu.maps.arcgis.com/home/item.html?id=7eafe939daf24fc58fb15384537723bb
+
 ### 1. Dashboard
 The main dashboard consolidates all wildfire-related data into an interactive interface. It includes:
 
